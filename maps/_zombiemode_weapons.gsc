@@ -2849,7 +2849,7 @@ get_pack_a_punch_weapon_options( weapon )
 
 	smiley_face_reticle_index = 21; // smiley face is reserved for the upgraded famas, keep it at the end of the list
 
-	camo_index = 15;
+	camo_index = 22;
 	lens_index = randomIntRange( 0, 6 );
 	reticle_index = randomIntRange( 0, smiley_face_reticle_index );
 	reticle_color_index = randomIntRange( 0, 6 );
