@@ -66,7 +66,7 @@ a0,b1,c2,d3,e4,f5,g6,f7,g8,h9
 1,gold,camo_packapunch_c,camo_packapunch_spec,camo_packapunch_env,weapon_camo_neutral,,,,
 2,real_gold,camo_gold_c,camo_gold_spec,camo_gold_env,weapon_camo_neutral,,,,
 3,silver,camo_packapunch_c_1,camo_packapunch_spec_1,camo_packapunch_env_1,weapon_camo_neutral,,,,
-4,pap_camo,~-gpackapunch_mov_c,~~-gpackapunch_mov_s-rgb&~~e3~e121af51,packapunch_mov_scroll,weapon_camo_neutral,,,,
+4,pap_camo,packapunch_mov_c,packapunch_mov_s,packapunch_mov_scroll,weapon_camo_neutral,,,,
 
 ,,,,,,,,,
 ,,# weapon name,# Pattern base texture,# solid base texture,# material to turn gold,,,,
